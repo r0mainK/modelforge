@@ -1,4 +1,4 @@
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 
 ADD requirements.txt setup.py package/
 ADD modelforge package/modelforge
